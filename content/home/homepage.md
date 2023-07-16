@@ -2,7 +2,8 @@
 widget: landing
 widget_id: Homepage
 headless: true
-weight: 10
+weight: 0
+title: "Qinya "
 active: true
 design:
   columns: "2"
@@ -10,4 +11,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-D﻿ecember
+# D﻿ecember
